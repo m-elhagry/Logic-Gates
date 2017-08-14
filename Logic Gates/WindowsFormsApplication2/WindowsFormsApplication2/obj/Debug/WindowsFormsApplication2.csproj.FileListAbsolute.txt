@@ -1,0 +1,19 @@
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.And.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.LogicGates.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Properties.Resources.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.NAND.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.NOT.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.OR.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.XOR.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.NOR.resources
+C:\Users\Mohamed\Desktop\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.XNOR.resources
+D:\My Program\Logic Gates\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\WindowsFormsApplication2.exe.config
+D:\My Program\Logic Gates\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.exe
+D:\My Program\Logic Gates\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.pdb
